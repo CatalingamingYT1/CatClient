@@ -57,6 +57,7 @@ More features are currently being worked on.
 ## ⚠️ Disclaimer
 
 This client is for **educational purposes only**. Use it only on servers where client-side modifications are allowed. The developer is **NOT responsible** for any bans or issues caused by misuse.
+
 ![Ahemmm](icons/muhehe.png)
 
 
