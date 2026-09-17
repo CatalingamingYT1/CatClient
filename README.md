@@ -81,6 +81,7 @@ This client is for educational purposes only . Use it only on servers where clie
 - The client is completely free
 - Discord RPC works but may need updating for newer Discord versions
 - Some features are still in development
+- I would appreciate a star too :)⭐
 
 ---
 
