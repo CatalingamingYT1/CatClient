@@ -7,6 +7,7 @@ It works on Minecraft versions from **1.7.10 up to 1.21.11** and supports **Vani
 ---
 
 ## how it looked last time i used it(it could still look same tho i dont know):
+# 🖼️ Preview
 ![CatClient](icons/show.png)
 
 ## 📦 Features
@@ -16,9 +17,9 @@ It works on Minecraft versions from **1.7.10 up to 1.21.11** and supports **Vani
 - **Multi-Platform** - Supports Vanilla, Forge, and Fabric
 - **Discord RPC** - Shows your status on Discord while playing
 - **Custom Icons** - Unique icons for different features
-- **Launcher Support** - Works on Vanilla Launcher and Badlion Client
+- **Launcher Support** - Works on Vanilla Launcher and other clients
 - **Auto-Updater** - Keeps the client up to date
-- **Key System** - Simple key validation with CAPTCHA protection
+- **Key System** - Simple key validation with 7 days limit(per key)
 
 ---
 
@@ -39,7 +40,7 @@ More features are currently being worked on.
 |----------|--------|
 | Vanilla Launcher | ✅ |
 | Badlion Client | ✅ |
-| Lunar Client | 🚧 Coming soon |
+| Lunar Client | Probably yes |
 
 ---
 
@@ -54,7 +55,9 @@ The client uses:
 
 ## ⚠️ Disclaimer
 
-This client is for educational purposes only. Use it only on servers where client-side modifications are allowed. The developer is not responsible for any bans or issues caused by misuse.
+This client is for educational purposes only . Use it only on servers where client-side modifications are allowed. The developer IS NOT responsible for any bans or issues caused by misuse.
+![Ahemmm](icons/muhehe.png)
+
 
 ---
 
@@ -80,3 +83,4 @@ This client is for educational purposes only. Use it only on servers where clien
 ---
 
 **Made by Catalin**
+![nice :)](icons/nice.png)
