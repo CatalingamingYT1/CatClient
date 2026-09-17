@@ -67,6 +67,7 @@ This client is for educational purposes only . Use it only on servers where clie
 - **Website**: [catclient.catclient.workers.dev](https://catclient.catclient.workers.dev)
 - **Discord**: [discord.gg/Wk5pYEMZrd](https://discord.gg/Wk5pYEMZrd)
 - **Github**: [https://github.com/CatalingamingYT1/CatClient](https://github.com/CatalingamingYT1/CatClient)
+- **Mail**: catclientme@proton.me
 
 ---
 
