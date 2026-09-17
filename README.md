@@ -51,6 +51,7 @@ The client uses:
 - Rate limiting to prevent abuse
 - HWID binding to prevent key sharing
 
+
 ---
 
 ## ⚠️ Disclaimer
@@ -61,14 +62,15 @@ This client is for educational purposes only . Use it only on servers where clie
 
 ---
 
-## 🌐 Links
+## 🌐 Official links(only)
 
 - **Website**: [catclient.catclient.workers.dev](https://catclient.catclient.workers.dev)
 - **Discord**: [discord.gg/Wk5pYEMZrd](https://discord.gg/Wk5pYEMZrd)
+- **Github**: [https://github.com/CatalingamingYT1/CatClient](https://github.com/CatalingamingYT1/CatClient)
 
 ---
 
-## 📸 Preview
+## 📸 Logo :)
 
 ![CatClient Logo](icons/catclient.png)
 
@@ -82,5 +84,6 @@ This client is for educational purposes only . Use it only on servers where clie
 
 ---
 
-**Made by Catalin**
+## **Made by Catalin**
+
 ![nice :)](icons/nice.png)
