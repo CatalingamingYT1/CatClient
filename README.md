@@ -26,7 +26,7 @@ It works on Minecraft versions from **1.7.10 up to 1.21.11** and supports **Vani
 ## 🔧 How It Works
 
 1. Download the injector
-2. Get your key from the website
+2. Get your free key from the website
 3. Run the injector and enter your key
 4. The injector will detect Minecraft and inject
 
@@ -46,17 +46,17 @@ More features are currently being worked on.
 
 ## 🔒 Security
 
-The client uses:
-- CAPTCHA protection for key validation
-- Rate limiting to prevent abuse
-- HWID binding to prevent key sharing
-
+- ✅ **No RAT, no malware**
+- ✅ CAPTCHA protection for keys
+- ✅ Rate limiting to prevent abuse
+- ✅ HWID binding to prevent sharing
+- ✅ Verifiable with any antivirus
 
 ---
 
 ## ⚠️ Disclaimer
 
-This client is for educational purposes only . Use it only on servers where client-side modifications are allowed. The developer IS NOT responsible for any bans or issues caused by misuse.
+This client is for **educational purposes only**. Use it only on servers where client-side modifications are allowed. The developer is **NOT responsible** for any bans or issues caused by misuse.
 ![Ahemmm](icons/muhehe.png)
 
 
