@@ -1,6 +1,6 @@
 # 🐱 CatClient
 
-**CatClient** is a free injectable Minecraft client that adds various features to enhance your gameplay experience.
+**CatClient** is a free injectable Minecraft client that adds various features to enhance your gameplay experience. also please read this before using it 
 
 It works on Minecraft versions from **1.7.10 up to 1.21.11** and supports **Vanilla**, **Forge**, and **Fabric**.
 
