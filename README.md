@@ -9,6 +9,8 @@ It works on Minecraft versions from **1.7.10 up to 1.21.11** and supports **Vani
 ## how it looked last time i used it(it could still look same tho i dont know):
 # 🖼️ Preview
 ![CatClient](icons/preview.png)
+![Banner](icons/banner.png)
+
 
 ## 📦 Features
 
